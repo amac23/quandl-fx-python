@@ -1,3 +1,10 @@
+"""
+This script will import quandl fx rates into our local database
+
+"""
+__author__ = 'Adam McDonald <amcdonald@v2.ventures>'
+__version__ = '1.0.0'
+
 import datetime
 import quandl
 import records
